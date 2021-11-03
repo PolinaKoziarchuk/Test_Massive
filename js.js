@@ -1,11 +1,11 @@
 var img1 = new Image();
-img1.src = "img/1.png";
+img1.src = "1.png";
 let img2 = new Image();
-img2.src = "img/2.png";
+img2.src = "2.png";
 let img3 = new Image();
-img3.src = "img/3.png";
+img3.src = "3.png";
 let img4 = new Image();
-img4.src = "img/4.png";
+img4.src = "4.png";
 
 let quest = [img1, img2, img3, img4];
 let right_answer = [a2, a5, a4, a3]
